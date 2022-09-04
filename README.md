@@ -8,4 +8,4 @@ The list of the books, and thus, folders in this repository is in the following:
   <li>Data Analysis (with Open Source Tools)</li>
   <li>Python for Data Analysis</li>
 </ul>
-Hopefully, this list will be continued :) <br>
+Hopefully, this list will be continued <meta charset="1F91E"> <br>
