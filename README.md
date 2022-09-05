@@ -1,5 +1,5 @@
 # Practicing-Data-Science-with-Books
-This repository contains data analysis examples from the books I read and practice in the field of data sience. <br>
+This repository contains data analysis examples from the books I read and practice in the field of data science. <br>
 To each of these books, a folder is allocated which contains the python code of examples and methods described in the respective book. <br>
 Each folder is named after its respective book. <br>
 New examples and codes are added as I read through the books. <br>
